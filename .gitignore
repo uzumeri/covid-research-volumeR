@@ -39,5 +39,4 @@ vignettes/*.pdf
 *.ini
 
 # Local Project Folders
-data/
 archive/
